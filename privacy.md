@@ -25,4 +25,4 @@ The developer can revoke the app's access at any time at https://myaccount.googl
 
 ## Contact
 
-jleake2620@gmail.com
+contact@dataforgeit.digital
